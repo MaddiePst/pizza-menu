@@ -1,4 +1,5 @@
 Fast React Pizza Co. 🍕
+
 This project is a React-based pizza menu application that dynamically displays pizza items, handles sold-out logic, and allows customers to place an order. It was built to solidify fundamental React concepts and practice component-based development.
 
 ## Table of Contents
