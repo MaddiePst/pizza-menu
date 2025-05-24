@@ -13,7 +13,7 @@ This project is a React-based pizza menu application that dynamically displays p
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Overview
 
