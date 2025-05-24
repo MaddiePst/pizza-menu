@@ -28,11 +28,11 @@ The goal of this project was to:
 
 ### Screenshot
 
-![./final screenshot]
+![./final screenshot](./final%20screenshot.png)
 
 ### Links
 
-- Live Site URL: [Live site URL ] Add live site URL here
+- Live Site URL: [Live site URL ](https://maddiepst.github.io/pizza-menu/)
 - GitHub Repository: [GitHub Repo](https://github.com/MaddiePst/Pizza-Menu.github.io)
 
 ## My Process
